@@ -1,0 +1,10 @@
+/home/yasmin/Descargas
+/home/yasmin/Documentos
+/home/yasmin/Documentos/fichero1.txt
+/home/yasmin/Documentos/fichero2.txt
+/home/yasmin/Documentos/fichero3.txt
+/et
+/alskalk
+/miau
+/home/yasmin/Imagenes
+/home/yasmin/Escritorio
